@@ -1,7 +1,38 @@
-# Photos organizer
+# 📱 PhotoAlbum Pro
 
-iPad app to let users quickly organize photos into albums. This is very cumbersome in Photos since you need to select photos, tap share button, select option to add to album and finally select album. 
+Advanced photo management solution for iPad, designed for intuitive organization and efficient album creation.
 
-In this app you would have two columns. One with photos and the second with albums. User could then drag photos to albums or just tap some kind of icon on an album and it would move the photos there. 
+## 🌟 Key Features
+
+### Dual-View Interface
+- Split-screen layout with Photos grid (left) and Albums list (right)
+- Optimized drag-and-drop functionality
+
+### Photo Management
+- Multi-select capability
+- Intuitive drag-and-drop for album creation
+- Smart sorting (date, location, name)
+- Advanced search and filtering
+
+### Album Organization
+- Custom album creation/modification
+- AI-powered smart albums
+- Secure sharing options
+- Album encryption
+
+## 🛠 Technical Stack
+- SwiftUI framework
+- iOS 15.0+
+- iCloud integration
+- Core Data local storage
+
+## 💫 What Makes Us Different
+- Intuitive drag-and-drop interface
+- Efficient dual-view workflow
+- AI-powered photo classification
+- Seamless iCloud sync
+
+## 🤝 Contributing
+Feel free to send a Pull Request.
 
 ![Photo manager idea](https://nemecek.be/media/images/PNG_image-4B40688646C1-1.png)
